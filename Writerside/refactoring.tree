@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="refactoring"
+                 name="Avisalá - Documentação"
+                 start-page="Usuarios.md">
+
+    <toc-element topic="Microsserviços.md">
+        <toc-element topic="Usuarios.md"/>
+    </toc-element>
+    <toc-element topic="Domain.md"/>
+    <toc-element topic="Application.md"/>
+    <toc-element topic="Infrastructure.md"/>
+    <toc-element topic="Presentation.md"/>
+</instance-profile>
