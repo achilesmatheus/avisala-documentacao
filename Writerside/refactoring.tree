@@ -7,10 +7,11 @@
                  start-page="Usuarios.md">
 
     <toc-element topic="Microsserviços.md">
-        <toc-element topic="Usuarios.md"/>
+        <toc-element topic="Usuarios.md">
+            <toc-element topic="ListarUsuarios.md"/>
+            <toc-element topic="CriarUsuario.md"/>
+            <toc-element topic="atualizar-usuario.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Domain.md"/>
-    <toc-element topic="Application.md"/>
-    <toc-element topic="Infrastructure.md"/>
-    <toc-element topic="Presentation.md"/>
 </instance-profile>

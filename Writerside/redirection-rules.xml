@@ -16,4 +16,32 @@
         </description>
         <accepts>Tutorial.html</accepts>
     </rule>
+    <rule id="d5553d7">
+        <description>Created after removal of "Frontend" from Avisalá - Documentação</description>
+        <accepts>Frontend.html</accepts>
+    </rule>
+    <rule id="4bf381f">
+        <description>Created after removal of "Empty MD Topic" from Avisalá - Documentação</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="7af6beb4">
+        <description>Created after removal of "Api" from Avisalá - Documentação</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="76e05208">
+        <description>Created after removal of "Tutorial" from Avisalá - Documentação</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="2c2e2ef2">
+        <description>Created after removal of "Presentation" from Avisalá - Documentação</description>
+        <accepts>Presentation.html</accepts>
+    </rule>
+    <rule id="648cd5c7">
+        <description>Created after removal of "Infrastructure" from Avisalá - Documentação</description>
+        <accepts>Infrastructure.html</accepts>
+    </rule>
+    <rule id="342cbf48">
+        <description>Created after removal of "Application" from Avisalá - Documentação</description>
+        <accepts>Application.html</accepts>
+    </rule>
 </rules>

@@ -9,13 +9,13 @@ Clean Archictecture
 ## Partes a serem refatoradas
 
 ### Domain - AggregatesModel
-- UsuárioAggregate/
+- AggregatesModel/
     - UsuárioAggregate/
         - `Usuário.cs`
 
 
 ### Infrastructure - EntityConfigurations
-- EntityTypeConfiguraton/
+- EntityTypeConfiguratons/
     - `UsuarioEntityTypeConfiguration.cs`
 
 
@@ -35,3 +35,4 @@ Clean Archictecture
     - `CreateUsuarioCommandValidator.cs`
     - `UpdateUsuarioCommandValidator.cs`
 ### Api - Grcp
+- `UsuarioService.cs`
